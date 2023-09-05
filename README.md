@@ -19,20 +19,21 @@ I am from Ireland and currently working at Errigal Inc.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/FranciscaMasombo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscaMasombo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscaMasombo&layout=compact&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/FranciscaMasombo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FranciscaMasombo&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=["issues"]&show_icons=true" alt="Fran's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FranciscaMasombo&&show_icons=true&hide_border=true&theme=dark" alt="Fran's GitHub Stats" />
 </a>
-
+<!--
 <a href="https://github.com/FranciscaMasombo/FYP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=FranciscaMasombo&repo=FYP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+-->
+<!--
 <a href="https://github.com/FranciscaMasombo/weight-watchers-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=FranciscaMasombo&repo=weight-watchers-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+-->
 
 <!--
 **FranciscaMasombo/FranciscaMasombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

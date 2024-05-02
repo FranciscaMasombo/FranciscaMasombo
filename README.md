@@ -2,7 +2,7 @@
 
 Talk to me about:
 My Name is Fran I am a Frontend/ Test Engineer. 
-I am from Ireland and currently working at Errigal Inc. 
+I am from Ireland and currently working at Kargo. 
 
 ## ⚡ Technologies (Always Learning)
 - Front-end development using **HTML, JavaScript, TypeScript, CSS, Sass, Bootstrap, Angular**.

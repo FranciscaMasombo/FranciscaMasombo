@@ -1,7 +1,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 Talk to me about:
-My Name is Fran I am a Frontend/ Test Engineer. 
+My Name is Fran I am a Software Development Engineer in Test I (SDET). 
 I am from Ireland and currently working at Kargo. 
 
 ## ⚡ Technologies (Always Learning)
